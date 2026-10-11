@@ -1,0 +1,6 @@
+{
+  "name": "PelviCare",
+  "description": "Aplicativo de Fisioterapia Pélvica e Saúde da Mulher com treinos guiados, biofeedback, diário miccional e prontuário clínico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
